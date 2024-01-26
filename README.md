@@ -5,3 +5,5 @@
 Para correr el sistema debes correr
 
 ``` npm install react ```
+
+Sístea de regístro 2
